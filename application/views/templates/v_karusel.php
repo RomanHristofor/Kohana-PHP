@@ -15,11 +15,11 @@
             </div>
         </div>
         <div class="item">
-            <img src="media/image/1.jpg" alt="...">
+            <img src="" alt="...">
             <div class="carousel-caption">
                 ...
             </div>
-            // good
+
         </div>
         ...
     </div>
