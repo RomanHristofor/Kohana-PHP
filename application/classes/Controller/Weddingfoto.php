@@ -10,6 +10,5 @@ class Controller_Weddingfoto extends Controller_Index {
         $categori = ORM::factory('categori')->where('showhide','=','show')->find_all();
         $main = View::factory('templates/v_foto')->bind('categori',$categori);
         $this->template->main[] = $main;
-        // good
     }
 }
