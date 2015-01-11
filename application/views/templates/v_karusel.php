@@ -19,6 +19,7 @@
             <div class="carousel-caption">
                 ...
             </div>
+            // good
         </div>
         ...
     </div>
