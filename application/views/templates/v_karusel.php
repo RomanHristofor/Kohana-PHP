@@ -15,7 +15,7 @@
             </div>
         </div>
         <div class="item">
-            <img src="" alt="...">
+            <img src="media/image/1.jpg" alt="...">
             <div class="carousel-caption">
                 ...
             </div>
