@@ -9,19 +9,43 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
         <div class="item active">
-            <img src="" alt="...">
-            <div class="carousel-caption">
-                ...
-            </div>
+            <img src="media/image/1/17.jpg" alt="...">
+                <div class="carousel-caption">                </div>
+        </div>
+
+        <div class="item">
+            <img src="media/image/1/31.jpg" alt="...">
+            <div class="carousel-caption">             </div>
         </div>
         <div class="item">
-            <img src="" alt="...">
-            <div class="carousel-caption">
-                ...
-            </div>
-
+            <img src="media/image/1/32.jpg" alt="...">
+            <div class="carousel-caption">            </div>
         </div>
-        ...
+        <div class="item">
+            <img src="media/image/1/33.jpg" alt="...">
+            <div class="carousel-caption">             </div>
+        </div>
+        <div class="item">
+            <img src="media/image/1/34.jpg" alt="...">
+            <div class="carousel-caption">            </div>
+        </div>
+        <div class="item">
+            <img src="media/image/1/35.jpg" alt="...">
+            <div class="carousel-caption">             </div>
+        </div>
+        <div class="item">
+            <img src="media/image/1/36.jpg" alt="...">
+            <div class="carousel-caption">            </div>
+        </div>
+        <div class="item">
+            <img src="media/image/1/37.jpg" alt="...">
+            <div class="carousel-caption">             </div>
+        </div>
+        <div class="item">
+            <img src="media/image/1/38.jpg" alt="...">
+            <div class="carousel-caption">            </div>
+        </div>
+
     </div>
 
     <!-- Controls -->
@@ -34,3 +58,9 @@
         <span class="sr-only">Next</span>
     </a>
 </div>
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="media/bootstrap/js/bootstrap.min.js"></script>
+<script src="media/bootstrap/js/docs.min.js"></script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
