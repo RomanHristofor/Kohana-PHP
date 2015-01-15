@@ -1,0 +1,9 @@
+<?php defined('SYSPATH') or die('No direct script access.');
+return array(
+'site_name' =>‘Школа PHP’,
+'site' => array(
+'keyword' =>'Школа web, школа php',
+'description' =>'Здесь вы можете скачать книги по PHP',
+'title' =>'Школа PHP'
+    )
+);
