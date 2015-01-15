@@ -12,7 +12,7 @@
             <img src="media/image/1/17.jpg" alt="...">
                 <div class="carousel-caption">                </div>
         </div>
-
+//все работает
         <div class="item">
             <img src="media/image/1/31.jpg" alt="...">
             <div class="carousel-caption">             </div>
